@@ -24,7 +24,7 @@ You can register and also login from the login or register page.
 
 
 
-CREATED BY MUHAMMAD SAJJAD YOUSUF-<a href="https://github.com/Summaiya-Saeed">SUMMAIYA SAEED</a>
+CREATED BY <a href="https://github.com/sajjad-yousuf-96">SMUHAMMAD SAJJAD YOUSUF</a> - <a href="https://github.com/Summaiya-Saeed">SUMMAIYA SAEED</a>
 
 
 
